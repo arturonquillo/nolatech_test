@@ -1,6 +1,6 @@
 # tennis_time
 
-A new Flutter project.
+A new Flutter project using bloc statement managment
 
 ## Getting Started
 
